@@ -1,4 +1,4 @@
-- Hi, I’m Tahtsu.🖐
+- Hi, I’m Tatsuki Kida.🖐
 - I’m interested in the metaverse. 
 - I’m currently learning C# and Unity. 
 - You can reach me @tahtsu_ on twitter.
