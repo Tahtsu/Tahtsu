@@ -1,7 +1,6 @@
 - Hi, I’m Tatsuki Kida.🖐
-- I’m interested in the metaverse. 
-- I’m currently learning C# and Unity. 
-- You can reach me @tahtsu_ on twitter.
+- Running on Coffee and Bubble Tea
+- Student at 42 Tokyo
 - The result of your work = attitute (-100-100) x Effort (1-100) x Ability (1-100)
 - Always have a positive attitude and work harder than anyone else.  
 
